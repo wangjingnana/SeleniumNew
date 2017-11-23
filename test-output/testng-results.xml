@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24141" started-at="2017-11-23T08:37:07Z" finished-at="2017-11-23T08:37:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24141" started-at="2017-11-23T08:37:07Z" finished-at="2017-11-23T08:37:31Z">
+      <class name="action.chanpinTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:action.chanpinTest@1753acfe]" name="setupBrowser" is-config="true" duration-ms="9796" started-at="2017-11-23T16:37:07Z" finished-at="2017-11-23T16:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="six()[pri:0, instance:action.chanpinTest@1753acfe]" name="six" duration-ms="14298" started-at="2017-11-23T16:37:17Z" finished-at="2017-11-23T16:37:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- six -->
+      </class> <!-- action.chanpinTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
